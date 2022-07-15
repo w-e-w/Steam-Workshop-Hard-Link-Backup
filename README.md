@@ -4,13 +4,14 @@ Preventing Steam from deleting Steam Workshop Downloads by using hard links as b
 ## Usage
 in `Steam Workshop` 3 scripts are provided for the user to use
 
-`Update [Hard Links].ps1` create a copy of your Steam Workshop
+1. `Update [Hard Links].ps1`
+    > create a copy of your Steam Workshop
 
-`Move [HardLinks] except [Workshop] to [Backups].ps1`
-move the files that are in [HardLinks] but not in [Workshop] to [Backups] folder
+2. `Move [HardLinks] except [Workshop] to [Backups].ps1`
+    > move the files that are in [HardLinks] but not in [Workshop] to [Backups] folder
 
-`Move [HardLinks] except [Workshop] to [Removed].ps1`
-move the files that are in [HardLinks] but not in [Workshop] to [Removed] folder
+3. `Move [HardLinks] except [Workshop] to [Removed].ps1`
+    > move the files that are in [HardLinks] but not in [Workshop] to [Removed] folder
 
 ---
 
