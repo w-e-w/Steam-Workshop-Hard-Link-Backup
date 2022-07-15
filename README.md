@@ -2,7 +2,7 @@
 Preventing Steam from deleting Steam Workshop Downloads by using hard links as backup
 
 ## Usage
-in `Steam Workshop` 3 scripts a provided for the user to use
+in `Steam Workshop` 3 scripts are provided for the user to use
 
 `Update [Hard Links].ps1` create a copy of your Steam Workshop
 
